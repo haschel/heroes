@@ -4,3 +4,4 @@ Capitana marvel
 Spiderman
 Batman
 Flash
+Thor
